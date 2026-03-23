@@ -15,9 +15,9 @@ Este repositório contém o código-fonte do meu portfólio profissional. O obje
 - [x] Animações de revelação ao rolar a página (Scroll Reveal).
 
 ## 🚀 Como visualizar o projeto
-Você pode acessar o site ao vivo clicando aqui: https://portifoliothiagodev.vercel.app/
+Você pode acessar o site clicando aqui: https://portifoliothiagodev.vercel.app/
 
 ## 📬 Contato
-- LinkedIn: [Seu Link]
+- LinkedIn: [Link]
 
-- Email: [Seu Email]
+- Email: [Email]
